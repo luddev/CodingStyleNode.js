@@ -6,7 +6,7 @@ Node.js Coding Style for personal projects.
 ###Few Imporant tips.
 -------------------
 
-* Never use with or eval, Use **===** over **==**.
+* Never use **with** or **eval**, Use **===** over **==**.
 
 * Always declare your variables with **var** in the appropriate scope - don't fallback to the global scope.
 
